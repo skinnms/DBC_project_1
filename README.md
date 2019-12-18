@@ -1,26 +1,26 @@
 # Data Boot Camp Project 1
 
 <!-- Project Title -->
-# Crime and Income in Nash Vegas
+# Stock Market Crash Analysis
 
 <!-- Team Members -->
 # Hayden Bass, Matthew Skinner, Andrew McKinney, Joe Hnat
 
 <!-- Project Description/Outline -->
-# We are wanting to see how high income ranges in areas, high income areas, 
-# low income areas compare when it comes to crime rates and types in Nashville.
+# We will use historical stock data to analyze the past 3 major stock market crashes and determine what stocks and funds were affected the most and by what.
 
 <!-- Research Questions to Answer -->
-# 1. Are crime rates more closely related to income disparity (high standard 
-# deviation) or overall average income of the area (low standard deviation)?
+# 1. What where the top and bottom N stocks that where affected by the crashes?
 
-# 2. How are the types of crimes in those two demographics different?
+# 2. What where the top and bottom N funds that where affected by the crashes?
+
+# 3. What are the factors can we identify that contributed to the rise/fall of each set of stocks and funds?
 
 <!-- Datasets to Be Used -->
-# Census for Income
-# Will Need a Source for Crime Data
+# https://www.alphavantage.co/ or https://www.worldtradingdata.com/ 
 
 <!-- Rough Breakdown of Tasks -->
-# Matt to scrap in Census Data
-# Hayden to find source for Crime data based on feedback
-# Secondary idea - Using weather and traffic/accident data to see how weather conditions affect crashes and traffic.
+# Matthew - Scrap data in.
+# Joseph - Clean and merge the data.
+# Hayden - Visualize the data.
+# Andrew - Final Analysis.
