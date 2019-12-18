@@ -12,7 +12,7 @@
 <!-- Research Questions to Answer -->
 # 1. What where the top and bottom 10 stocks that where affected by the crashes?
 
-# 3. What factors can we identify that contributed to the rise/fall of each set of stocks?
+# 2. What factors can we identify that contributed to the rise/fall of each set of stocks?
 
 <!-- Datasets to Be Used -->
 # https://www.alphavantage.co/ or https://www.worldtradingdata.com/ 
