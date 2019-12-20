@@ -10,12 +10,14 @@
 # We will use historical S&P 500 stocks to analyze the past 3 major stock market crashes and determine what stocks were affected the most and by what.
 
 <!-- Research Questions to Answer -->
-# 1. What where the top and bottom 10 stocks that where affected by the crashes?
+# 1. What where the top and bottom 5 stocks that where affected by the crashes?
 
 # 2. What factors can we identify that contributed to the rise/fall of each set of stocks?
 
+# 3. Which industries were effected the most?
+
 <!-- Datasets to Be Used -->
-# https://www.alphavantage.co/ or https://www.worldtradingdata.com/ 
+# yahoo finance
 
 <!-- Rough Breakdown of Tasks -->
 # Matthew - Scrap data in.
