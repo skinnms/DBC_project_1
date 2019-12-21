@@ -1,1 +1,5 @@
+# various ignore files
 *.py
+__pycache__
+ipynb_checkpoints
+api_keys.py
